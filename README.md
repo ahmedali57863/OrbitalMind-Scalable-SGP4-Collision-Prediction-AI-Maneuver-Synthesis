@@ -30,8 +30,6 @@ https://github.com/user-attachments/assets/0677b473-2965-4277-b8fe-c0bc6f5fe8d6
 - 🧠 **Autonomous Evasive AI:** Generates strict, real-time Delta-V thruster burn sequences using Google Gemini 2.5 Flash.
 - 🕶️ **High-Performance WebGL HUD:** Renders thousands of active satellites at 60 FPS using React, Tailwind CSS, and Three.js `InstancedMesh` with dead-reckoning interpolation.
 
-> **[DRAG AND DROP YOUR AI TERMINAL SCREENSHOT / GIF HERE]**
-> *(e.g., The screenshot of the red Target Lock scanner)*
 
 ---
 
