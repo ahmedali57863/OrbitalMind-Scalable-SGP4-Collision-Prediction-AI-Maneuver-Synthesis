@@ -1,0 +1,17 @@
+# Security
+.env
+
+# Python
+__pycache__/
+venv/
+*.pyc
+
+# Databases (We don't want to upload the massive database)
+vanguard.db
+temp_physics.csv
+active_satellites.json
+
+# React/Node
+node_modules/
+dist/
+.DS_Store
