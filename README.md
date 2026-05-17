@@ -18,8 +18,7 @@
 
 Built on a robust **Lambda Architecture**, the system decouples heavy physics calculations from the user interface. It utilizes Apache Spark (PySpark) to crunch live telemetry data, SQLite for persistent state management, and Google Gemini 2.5 Flash to act as an autonomous orbital traffic controller.
 
-> **[DRAG AND DROP YOUR HERO SCREENSHOT HERE]**
-> *(e.g., The 3D spinning globe screenshot)*
+https://github.com/user-attachments/assets/0677b473-2965-4277-b8fe-c0bc6f5fe8d6
 
 ---
 
